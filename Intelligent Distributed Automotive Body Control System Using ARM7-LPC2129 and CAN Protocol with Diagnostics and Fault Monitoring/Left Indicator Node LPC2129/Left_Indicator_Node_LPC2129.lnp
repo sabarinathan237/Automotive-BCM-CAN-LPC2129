@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\left_indicator.o"
+--strict --scatter ".\Left_Indicator_Node_LPC2129.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Left_Indicator_Node_LPC2129.map" -o .\Left_Indicator_Node_LPC2129.axf

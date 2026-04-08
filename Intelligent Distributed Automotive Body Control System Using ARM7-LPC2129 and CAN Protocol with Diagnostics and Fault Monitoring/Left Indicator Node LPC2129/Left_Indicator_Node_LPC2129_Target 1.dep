@@ -1,0 +1,4 @@
+Dependencies for Project 'Left_Indicator_Node_LPC2129', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\left_indicator.c)(0x69D6271A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\left_indicator.o --omf_browse .\left_indicator.crf --depend .\left_indicator.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)

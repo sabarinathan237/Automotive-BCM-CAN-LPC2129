@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\wiper_node.o"
+--strict --scatter ".\wiper_node.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\wiper_node.map" -o .\wiper_node.axf
