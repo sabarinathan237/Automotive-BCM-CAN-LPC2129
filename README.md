@@ -170,7 +170,7 @@ SABARINATHAN S
 Embedded Systems Developer
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/sabarinathans23
-* 📧 Email: [sabarinathansja23@gmail.com](mailto:sabarinathansja23@email.com)
+* 📧 Email: [sabarinathansja23@gmail.com](mailto:sabarinathansja23@gmail.com)
 
 ---
 
